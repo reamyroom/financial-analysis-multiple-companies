@@ -1,4 +1,4 @@
-# financial-analysis-multiple-companies
+# Financial Analysis of Multiple Companies
 Python script for financial analysis a company (i.e Tesla) using Yahoo Finance API. Calculates key financial ratios and visualizes stock trends
 
 ## 📊 Financial Analysis of Tesla & Multiple Companies using Python
