@@ -1,6 +1,5 @@
 ## Required Libraries:
-yfinance
-pandas
-numpy
-matplotlib
-jupyter
+- yfinance
+- pandas
+- numpy
+- matplotlib
