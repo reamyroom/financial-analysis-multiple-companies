@@ -1,3 +1,4 @@
+## Required Libraries:
 yfinance
 pandas
 numpy
