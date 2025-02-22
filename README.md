@@ -9,10 +9,10 @@ Features:
 ✔️ Fetch financial data from Yahoo Finance
 ✔️ Compute key financial ratios:
 
-
    Current Ratio (Liquidity)
    Quick Ratio (Short-term financial health)
    Return on Equity (ROE) (Profitability)
    Return on Assets (ROA) (Efficiency)
    Debt-to-Equity Ratio (Leverage)
-   ✔️ Visualize stock performance (Normalized prices for comparison)
+
+✔️ Visualize stock performance (Normalized prices for comparison)
